@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "poster": "images/products/2148949611.jpg",
+      "name": "product_1_name",
+      "views": "130",
+      "rate": 4,
+      "offer": "product_1_offer",
+      "price": "60"
+    },
+    {
+      "id": 2,
+      "poster": "images/products/6858344.jpg",
+      "name": "product_2_name",
+      "views": "175",
+      "rate": 4,
+      "offer": "product_2_offer",
+      "price": "40"
+    },
+    {
+      "id": 3,
+      "poster": "images/products/6858352.jpg",
+      "name": "product_3_name",
+      "views": "134",
+      "rate": 2,
+      "offer": "product_3_offer",
+      "price": "75"
+    },
+    {
+      "id": 4,
+      "poster": "images/products/7041915_3532839.jpg",
+      "name": "product_4_name",
+      "views": "144",
+      "rate": 4,
+      "offer": "product_4_offer",
+      "price": "55"
+    },
+    {
+      "id": 5,
+      "poster": "images/products/8488709.jpg",
+      "name": "product_5_name",
+      "views": "130",
+      "rate": 4,
+      "offer": "product_5_offer",
+      "price": "65"
+    },
+    {
+      "id": 6,
+      "poster": "images/products/8494682.jpg",
+      "name": "product_6_name",
+      "views": "180",
+      "rate": 4,
+      "offer": "product_6_offer",
+      "price": "45"
+    },
+    {
+      "id": 7,
+      "poster": "images/products/37117441_8488501.jpg",
+      "name": "product_7_name",
+      "views": "145",
+      "rate": 3,
+      "offer": "product_7_offer",
+      "price": "46"
+    },
+    {
+      "id": 8,
+      "poster": "images/products/37117446_8488709.jpg",
+      "name": "product_8_name",
+      "views": "190",
+      "rate": 5,
+      "offer": "product_8_offer",
+      "price": "65"
+    },
+    {
+      "id": 9,
+      "poster": "images/products/37117454_8494733.jpg",
+      "name": "product_9_name",
+      "views": "110",
+      "rate": 3,
+      "offer": "product_9_offer",
+      "price": "60"
+    },
+    {
+      "id": 10,
+      "poster": "images/products/37117483_8494714.jpg",
+      "name": "product_10_name",
+      "views": "126",
+      "rate": 4,
+      "offer": "product_10_offer",
+      "price": "47"
+    },
+    {
+      "id": 11,
+      "poster": "images/products/47682471_9130313.jpg",
+      "name": "product_11_name",
+      "views": "190",
+      "rate": 5,
+      "offer": "product_11_offer",
+      "price": "59"
+    },
+    {
+      "id": 12,
+      "poster": "images/products/47682473_9130312.jpg",
+      "name": "product_12_name",
+      "views": "134",
+      "rate": 4,
+      "offer": "product_12_offer",
+      "price": "42"
+    },
+    {
+      "id": 13,
+      "poster": "images/products/2148949611.jpg",
+      "name": "product_13_name",
+      "views": "166",
+      "rate": 4,
+      "offer": "product_13_offer",
+      "price": "48"
+    },
+    {
+      "id": 14,
+      "poster": "images/products/6858352.jpg",
+      "name": "product_14_name",
+      "views": "154",
+      "rate": 2,
+      "offer": "product_14_offer",
+      "price": "64"
+    },
+    {
+      "id": 15,
+      "poster": "images/products/7041915_3532839.jpg",
+      "name": "product_15_name",
+      "views": "133",
+      "rate": 4,
+      "offer": "product_15_offer",
+      "price": "54"
+    },
+    {
+      "id": 16,
+      "poster": "images/products/8488709.jpg",
+      "name": "product_16_name",
+      "views": "190",
+      "rate": 5,
+      "offer": "product_16_offer",
+      "price": "62"
+    },
+    {
+      "id": 17,
+      "poster": "images/products/8494682.jpg",
+      "name": "product_17_name",
+      "views": "180",
+      "rate": 5,
+      "offer": "product_17_offer",
+      "price": "49"
+    },
+    {
+      "id": 18,
+      "poster": "images/products/37117441_8488501.jpg",
+      "name": "product_18_name",
+      "views": "110",
+      "rate": 3,
+      "offer": "product_18_offer",
+      "price": "56"
+    },
+    {
+      "id": 19,
+      "poster": "images/products/37117446_8488709.jpg",
+      "name": "product_19_name",
+      "views": "112",
+      "rate": 2,
+      "offer": "product_19_offer",
+      "price": "77"
+    },
+    {
+      "id": 20,
+      "poster": "images/products/8494682.jpg",
+      "name": "product_20_name",
+      "views": "177",
+      "rate": 5,
+      "offer": "product_20_offer",
+      "price": "39"
+    }
+  ]
+}

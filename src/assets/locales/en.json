@@ -1,0 +1,161 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "product": "product",
+    "pet": "pet"
+  },
+  "form": {
+    "search": "search"
+  },
+  "subnav": {
+    "arabic": "Arabic",
+    "english": "English",
+    "rateus": "Rate us",
+    "contactus": "Contact us",
+    "profile": "Profile",
+    "signin": "Sign in",
+    "login": "Log in"
+  },
+  "flashnews": {
+    "texts": [
+      "A shrimp’s heart is in its head.",
+      "Slugs have four noses.",
+      "Elephants are the only animals that can’t jump.",
+      "A rhinoceros' horn is made of hair.",
+      "Starfish have no brain or blood."
+    ]
+  },
+  "landingArticle": {
+    "article1": [
+      "Amazing Presents",
+      "christmas gifts they'll love",
+      "shop gifts"
+    ],
+    "article2": ["we are dropping prices on products you love", "shop now"],
+    "article3": ["Save 10% on your first delevary", "shop now"]
+  },
+  "shopPage": {
+    "header": ["shop for"],
+    "toggle": ["all pets", "my pets"],
+    "allpets": ["dog", "cat", "bird", "fish", "wild"],
+    "mypetsunsign": [
+      "Sign in",
+      " for a personalised experience. Don’t have an account?",
+      " Join today",
+      "learn more"
+    ],
+    "mypetssign": [
+      "Sign in",
+      " for a personalised experience. Don’t have an account?",
+      " Join today",
+      "learn more"
+    ]
+  },
+  "footer": {
+    "form": ["chosse you pet", "subscribe"],
+    "footNav": ["Language", "Feed back", "Your account"]
+  },
+  "aboutUs": {
+    "about": "🐾 About Petopia",
+    "aboutDisc": "Petopia is a specialized pet store established in 2021, created to be a one-stop destination for pet lovers. The store is dedicated to providing high-quality products and services that promote the health, happiness, and well-being of all pets.",
+    "vision": "🎯 Vision",
+    "visionDisc": "To become the most trusted and beloved destination for pet owners by offering premium products, professional care, and an enjoyable shopping experience.",
+    "mission": "💡 Mission",
+    "missionDisc": "To enhance the lives of pets and their owners by offering safe, reliable, and innovative solutions — while promoting compassion and responsible pet ownership.",
+    "product": "🛍️ Products and Services",
+    "productDisc": [
+      "Pet food (natural, organic, and breed-specific).",
+      "Grooming and hygiene supplies.",
+      "Toys, training tools, and accessories.",
+      "Mini veterinary clinic for check-ups and vaccinations.",
+      "Pet adoption section in partnership with animal welfare organizations.",
+      "Online store with home delivery service."
+    ],
+    "core": "🌿 Core Values",
+    "coreDisc": [
+      "Compassion: Treating all animals with love and respect.",
+      "Quality: Offering trusted and safe products.",
+      "Sustainability: Using eco-friendly and cruelty-free materials.",
+      "Innovation: Providing modern solutions for pet care and comfort."
+    ],
+    "location": "📍 Location (Fictional)",
+    "locationDisc": "Based in Dubai, United Arab Emirates, with plans to expand across the Gulf region in the near future.",
+    "goals": "🚀 Future Goals",
+    "goalsDisc": [
+      "Launch a mobile app for shopping and service booking.",
+      "Create an educational platform about pet care and training.",
+      "Open new branches in major cities around the GCC.",
+      "Support awareness campaigns against animal neglect and abuse."
+    ]
+  },
+  "productsConfig": {
+    "heading": "we are dropping prices on products you love",
+    "pargraph": "More love for you & your pet",
+    "reviews": "reviews",
+    "addToBasket": "add to basket",
+    "Trending": "Trending",
+    "seeMore": "see more"
+  },
+  "products": {
+    "product_1_name": "Premium Dog Dry Food",
+    "product_1_offer": "20% Off",
+
+    "product_2_name": "Cat Hairball Control Food",
+    "product_2_offer": "Buy 1 Get 1 Free",
+
+    "product_3_name": "Fish Vitamin Drops",
+    "product_3_offer": "Limited Time Discount",
+
+    "product_4_name": "Bird Calcium Supplement",
+    "product_4_offer": "Save 10% Today",
+
+    "product_5_name": "Wet Puppy Food",
+    "product_5_offer": "Special Weekend Offer",
+
+    "product_6_name": "Anti-Tick Dog Shampoo",
+    "product_6_offer": "Buy 2 Save 15%",
+
+    "product_7_name": "Cat Flea Treatment",
+    "product_7_offer": "Flash Sale - 25% Off",
+
+    "product_8_name": "Bird Seed Mix",
+    "product_8_offer": "Buy 1 Get 50% Off on Second",
+
+    "product_9_name": "Fish Tank Water Conditioner",
+    "product_9_offer": "Save 5% on First Purchase",
+
+    "product_10_name": "Dog Joint Support Tablets",
+    "product_10_offer": "Bundle Offer Available",
+
+    "product_11_name": "Cat Immune Booster",
+    "product_11_offer": "Special Price Today",
+
+    "product_12_name": "Puppy Training Treats",
+    "product_12_offer": "Buy 3 Get 1 Free",
+
+    "product_13_name": "Dog Skin & Coat Oil",
+    "product_13_offer": "15% Off for Members",
+
+    "product_14_name": "Cat Digestive Relief Medicine",
+    "product_14_offer": "Limited Stock – Save 10%",
+
+    "product_15_name": "Dog Dental Chew",
+    "product_15_offer": "Buy 5 Save 20%",
+
+    "product_16_name": "Fish Antibiotic Formula",
+    "product_16_offer": "Special Discount Available",
+
+    "product_17_name": "Bird Vitamins & Minerals",
+    "product_17_offer": "Buy 1 Get Free Sample",
+
+    "product_18_name": "Cat Urinary Health Dry Food",
+    "product_18_offer": "Save 12% Today Only",
+
+    "product_19_name": "Dog Allergy Relief Spray",
+    "product_19_offer": "Flash Deal – 18% Off",
+
+    "product_20_name": "Puppy Growth Supplement",
+    "product_20_offer": "Exclusive New Customer Offer"
+  }
+}

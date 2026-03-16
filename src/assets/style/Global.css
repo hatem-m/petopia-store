@@ -1,0 +1,68 @@
+:root {
+    --first-color: #E76F51;
+    --second-color: #F4A261;
+    --third-color: #E9C46A;
+    --forth-color: #2A9D8F;
+    --fivth-color: #264653;
+    --section-padding: 60px;
+}
+/* .cairo-<uniquifier> {
+    font-family: "Cairo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0;
+        .............
+.lobster-two-regular {
+        font-family: "Lobster Two", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .lobster-two-bold {
+        font-family: "Lobster Two", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    .lobster-two-regular-italic {
+        font-family: "Lobster Two", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .lobster-two-bold-italic {
+        font-family: "Lobster Two", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+    }
+} */
+/* إعداد الاتجاه */
+html[dir="rtl"] {
+    direction: rtl;
+    text-align: right;
+}
+
+html[dir="ltr"] {
+    direction: ltr;
+    text-align: left;
+}
+
+/* إذا أردت قلب ترتيب flex أو grid تلقائياً */
+html[dir="rtl"] .reverse-dir {
+    flex-direction: row-reverse;
+}
+
+/* مثال: */
+html[dir="rtl"] .navbar {
+    justify-content: flex-end;
+}
+body {
+    font-family: "Cairo", sans-serif;
+}
+.section-heading {
+    font-family: "Lobster Two", sans-serif;
+    font-size: 45px;
+    color: var(--fivth-color);
+}
